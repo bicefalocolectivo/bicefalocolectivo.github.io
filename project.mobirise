@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4648,7 +4648,7 @@
     "page9.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "REY",
+        "title": "REY REY",
         "order": 13
       },
       "components": [
@@ -6052,7 +6052,7 @@
     "page13.html": {
       "settings": {
         "meta_descr": "Web Site Generator Description",
-        "title": "rey1",
+        "title": "REY1",
         "order": 14
       },
       "components": [
